@@ -7,6 +7,7 @@
 - 🌱 Going towards MERN stack.
 
 ### Find me around the web:
+
 <p align="left">
   <a href="https://www.linkedin.com/in/ashay-tiwari-447604197/" target="blank">
     <img src="social-icons/linkedin.png" title="Linkedin" height="30">
@@ -22,9 +23,7 @@
   </a>
 </p>
 
-## GitHub Stats
-
-If you haven't had a chance to check out [GitHub Skyline](https://skyline.github.com/) yet, do it now. It's a 3D visualisation of your contribution graph. You can interact with your 3D graph, make a video, download the STL file, add annotations, and even view it in Virtual Reality - you'll need a phone and a Google Cardboard to do this, or you can break out the fancy VR headsets. You can also view the ASCII art, and if you know the code combination, you can view the Konami code (コナミコマンド).
+### GitHub Stats:
 
 <img src="https://github-readme-stats.vercel.app/api?username=ashaytiwari&show_icons=true&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact"  width="700" >
 
