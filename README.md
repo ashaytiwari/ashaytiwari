@@ -5,7 +5,7 @@
 <br />
 <!-- GIF -->
 <p align="center">
-  <img src="developer.gif" alt="banner-image" title="banner">
+  <img src="cozy-coding-setup-winter-evening-featuring-laptop-with-code-screen-surrounded-by-war_1053268-13267.avif" alt="banner-image" title="banner">
  </p>
 
  <br />
