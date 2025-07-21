@@ -59,6 +59,15 @@
 
 <br />
 
+## 📝 Blogs, Articles & Research Papers
+
+- 📖 [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
+- 📖 [Design and Development of a Modern Hybrid E-Recruitment System with MERN Architecture](https://ijsrem.com/download/design-and-development-of-a-modern-hybrid-e-recruitment-system-with-mern-architecture/)
+
+👉 Follow me on [Dev.to](https://dev.to/ashay_tiwari_3658168ad5db) for more articles!
+
+<br />
+
 ## Contact with me:
 <p align="left">
 <a href="https://dev.to/ashay_tiwari_3658168ad5db" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ashay_tiwari_3658168ad5db" height="30" width="40" /></a>
