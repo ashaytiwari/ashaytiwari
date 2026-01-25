@@ -36,6 +36,7 @@
 
   ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white)
   ![Typescript](https://img.shields.io/badge/javascript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3178C6?style=flat-square&logo=python&logoColor=white&color=green)
 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
   ![Next.js](https://img.shields.io/badge/Next_JS-000000?style=flat-square&logo=next.js&logoColor=white)
