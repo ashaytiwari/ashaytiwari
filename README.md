@@ -67,6 +67,7 @@
 
 - 📖 [Tunneling Made Simple: Exposing Local React and Node Apps with ngrok and LocalTunnel](https://dev.to/ashay_tiwari_3658168ad5db/tunneling-made-simple-exposing-local-react-and-node-apps-with-ngrok-and-localtunnel-5g1g)
 - 📖 [Design and Development of a Modern Hybrid E-Recruitment System with MERN Architecture](https://ijsrem.com/download/design-and-development-of-a-modern-hybrid-e-recruitment-system-with-mern-architecture/)
+- 📖 [Understanding The "Why" Behind Software Design: OOPS Fundamentals](https://dev.to/ashay_tiwari_3658168ad5db/understanding-the-why-behind-software-design-introduction-41j3)
 
 👉 Follow me on [Dev.to](https://dev.to/ashay_tiwari_3658168ad5db) for more articles!
 
