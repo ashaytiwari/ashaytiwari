@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center"><font face="Arial">Hi 👋, I'm Ashay Tiwari</font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ashay-tiwari-447604197/" target="_blank" rel="noreferrer">Ashay</a> is a passionate Fullstack Engineer from India, working on Web and Mobile Applications for the past 4+ years. Feel free to reach out for any Freelance Projects.</font></h3>
+<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/ashay-tiwari-447604197/" target="_blank" rel="noreferrer">Ashay</a> is a passionate Fullstack Engineer from India, working on Web and Mobile Applications for the past 5+ years. Feel free to reach out for any Freelance Projects.</font></h3>
 
 <br />
 <!-- GIF -->
